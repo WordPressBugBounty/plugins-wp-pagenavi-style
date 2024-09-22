@@ -1,0 +1,1 @@
+# plugins-wp-pagenavi-style
